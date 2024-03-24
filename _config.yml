@@ -1,11 +1,11 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+title: 2024 AIAA ISTC Workshop
+subtitle: by AIAA ISTC
+email: justin.bradley@unl.edu
+description: A cool site for the AIAA ISTC Workshop
+baseurl: "/2024-AIAA-ISTC-workshop" # the subpath of your site, e.g. /blog
+url: jmb275.github.io # the base hostname & protocol for your site
+author: Justin Bradley
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
