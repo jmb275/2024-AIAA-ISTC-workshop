@@ -1,0 +1,16 @@
+current directory: /Users/jbradley/Dropbox/service/AIAA_ISTC/2024_workshop/2024-AIAA-ISTC-workshop/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/jbradley/.rbenv/versions/3.1.3/bin/ruby -I /Users/jbradley/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/jbradley/Dropbox/service/AIAA_ISTC/2024_workshop/2024-AIAA-ISTC-workshop/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240324-8225-wb39n9 sitelibdir\=./.gem.20240324-8225-wb39n9 clean
+
+current directory: /Users/jbradley/Dropbox/service/AIAA_ISTC/2024_workshop/2024-AIAA-ISTC-workshop/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240324-8225-wb39n9 sitelibdir\=./.gem.20240324-8225-wb39n9
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/jbradley/Dropbox/service/AIAA_ISTC/2024_workshop/2024-AIAA-ISTC-workshop/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240324-8225-wb39n9 sitelibdir\=./.gem.20240324-8225-wb39n9 install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20240324-8225-wb39n9
